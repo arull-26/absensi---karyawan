@@ -16,7 +16,7 @@
     <!-- ================= LOGIN PAGE ================= -->
     <div class="page active" id="page-login">
         <div class="login-card">
-            <h2>Login Absensi📍</h2>
+            <h2>Login Absensi</h2>
 
             <div class="form-group">
                 <label>NIK</label>
